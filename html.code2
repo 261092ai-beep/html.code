@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>my protfolio</title>
+</head>
+<body>
+ <h1>my protfolio</h1>
+ <p>hello!my name is dhanushkasri</p>
+ <h2>about me</h2>
+ <p>i am interested in HTML and AI</p>
+ <h1>my skill<h1>
+ <u1> unorclored<u1>
+ <li>html</li>
+ <li>python</li>
+ <li>ai</li>
+</body>
+</html>
